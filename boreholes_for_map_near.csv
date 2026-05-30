@@ -1,0 +1,217 @@
+On offshore,Province name,Municipality name,longitude,latitude,Type,Status,Result,Current owner,Operator,oil or gas?,Year,within_zone,within_1km,outside,only_1km
+ON,Zuid-Holland,Alblasserdam,4.6746660319666935,51.87114327550949,Exploration hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1957,False,True,False,True
+ON,Drenthe,Aa en Hunze,6.691715421841973,53.03210953426515,Exploration hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1964,False,True,False,True
+ON,Drenthe,Tynaarlo,6.717303987656824,53.07342717589203,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1970,True,True,False,False
+ON,Noord-Holland,Bergen,4.66617582322216,52.65889258835129,Exploration hydrocarbon,Plugged and abandoned,Gas,Amoco Netherlands Petroleum Company,Amoco Netherlands Petroleum Company,Y,1965,True,True,False,False
+ON,Noord-Holland,Bergen,4.632778574224638,52.66628866738502,Appraisal hydrocarbon,Closed-In,Gas,TAQA Offshore B.V.,Amoco Netherlands Petroleum Company,Y,1976,True,True,False,False
+ON,Gelderland,Winterswijk,6.657280596323244,51.975296175184454,Exploration,Plugged and abandoned,Oil shows,Rijksoverheid,ROVD,Y,1921,False,True,False,True
+ON,Drenthe,Coevorden,6.71442243135996,52.70647957425896,Appraisal hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1978,False,True,False,True
+ON,Drenthe,Coevorden,6.713953899459039,52.70647320922068,Appraisal hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1979,False,True,False,True
+ON,Drenthe,Coevorden,6.713589245026727,52.70629544968201,Appraisal hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1986,False,True,False,True
+ON,Drenthe,Aa en Hunze,6.5765843246842035,52.95706574159961,Development hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1974,True,True,False,False
+ON,Drenthe,Emmen,6.8424572348687605,52.78166070059804,Exploration hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1969,False,True,False,True
+ON,Drenthe,Emmen,6.8644715137380405,52.777400238282006,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1976,True,True,False,False
+ON,Drenthe,Emmen,6.8644715137380405,52.777400238282006,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1995,True,True,False,False
+ON,Drenthe,Emmen,6.8644715137380405,52.777400238282006,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,2003,True,True,False,False
+ON,Drenthe,Emmen,6.864551353217503,52.77713527046707,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1976,True,True,False,False
+ON,Drenthe,Emmen,6.864551353217503,52.77713527046707,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1994,True,True,False,False
+ON,Drenthe,Emmen,6.864551353217503,52.77713527046707,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1995,True,True,False,False
+ON,Drenthe,Emmen,6.860358779296899,52.795546117559596,Appraisal hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1978,True,True,False,False
+ON,Drenthe,Emmen,6.851055038507146,52.765178281956715,Appraisal hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1979,False,True,False,True
+ON,Drenthe,Emmen,6.860254453951889,52.795283517922385,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1979,True,True,False,False
+ON,Drenthe,Emmen,6.860254453951889,52.795283517922385,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1990,True,True,False,False
+ON,Drenthe,Emmen,6.85077321703546,52.76497025227913,Development hydrocarbon,Plugged and abandoned,Gas shows,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1987,False,True,False,True
+ON,Drenthe,Emmen,6.86079127225651,52.79548315995759,Appraisal hydrocarbon,Plugged and abandoned,Gas shows,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1982,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.789281638465468,53.051379866737086,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1978,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.698102835570274,52.938255895112896,Exploration hydrocarbon,Closed-In,Gas,Vermilion Energy Netherlands B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1980,False,True,False,True
+ON,Friesland,Ameland,5.62426714250008,53.45682117946687,Exploration hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1964,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.540135656537778,51.894771125763214,Exploration hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1956,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5459313784088895,51.89405772513475,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.54353276220422,51.89181132896042,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5434601404395165,51.891810808169765,Development hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.53981233904996,51.89188342155935,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.53981233904996,51.89188342155935,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1977,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.554887946849312,51.8876294385848,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.558760695462129,51.88533997791535,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.558760695462129,51.88533997791535,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1980,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.558760695462129,51.88533997791535,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1987,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.54922546361681,51.889586919742314,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.552214213629208,51.8843138558996,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.543460981711713,51.89176586676635,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.543459299167594,51.891855739572925,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.543459299167594,51.891855739572925,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1978,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.543459299167594,51.891855739572925,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1982,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5398114877774205,51.89192836296268,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.545932049426626,51.89402177401191,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.539796286406786,51.89196420392697,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5472723894403115,51.88837747091471,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5472723894403115,51.88837747091471,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1990,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5472438494975975,51.88835029975663,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5472438494975975,51.88835029975663,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1982,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.5472438494975975,51.88835029975663,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1982,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.561866124928594,51.88629667107366,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.561866124928594,51.88629667107366,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1977,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.542472032036027,51.8887295608037,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.542472032036027,51.8887295608037,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1982,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.561881306298337,51.886260820108866,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.561881306298337,51.886260820108866,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1979,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.542500401724106,51.88876572224251,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.542500401724106,51.88876572224251,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1981,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.551863160733385,51.88913829376064,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.551863160733385,51.88913829376064,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1979,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.551863160733385,51.88913829376064,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1987,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.557048638366155,51.88444700160912,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.557048638366155,51.88444700160912,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1977,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.561135957144705,51.88808927962635,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.561135957144705,51.88808927962635,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1980,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.546298596649118,51.89228958347819,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.546240665491553,51.892280182565145,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.546240665491553,51.892280182565145,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1978,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.56112093602899,51.88811614031037,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.563235512764432,51.88290855920051,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.563250533879859,51.882881698516556,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.563250533879859,51.882881698516556,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1977,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.55281691196611,51.887059698606286,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.55281691196611,51.887059698606286,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1964,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.55281691196611,51.887059698606286,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1974,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.55281691196611,51.887059698606286,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1984,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.55281691196611,51.887059698606286,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1990,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.554913598911435,51.88757793723974,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.554913598911435,51.88757793723974,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1967,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.539795605388808,51.89200015504961,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.539795605388808,51.89200015504961,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1987,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.556990386700173,51.88445558125786,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5570923796794105,51.88443832180257,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5570923796794105,51.88443832180257,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1968,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5570923796794105,51.88443832180257,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1970,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.563220331395208,51.882944400164924,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.563220331395208,51.882944400164924,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1967,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.563205150025705,51.88298025112966,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1968,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.563205150025705,51.88298025112966,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1986,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.554897307824983,51.887602627842014,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1977,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.547215299554639,51.88832312859842,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1977,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.551792542020029,51.88902992960243,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1980,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.551792542020029,51.88902992960243,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1981,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.54354645128522,51.89185637052191,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1981,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.543548304083876,51.89175750743462,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1981,False,True,False,True
+ON,Zuid-Holland,Rotterdam,4.543447462885252,51.89171183492413,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1987,False,True,False,True
+ON,Noord-Brabant,Veghel,5.598144148249472,51.581447581853915,Exploration hydrocarbon,Plugged and abandoned,Oil shows,Clyde Petroleum Exploratie B.V.,Clyde Petroleum Exploratie B.V.,Y,1992,False,True,False,True
+ON,Zuid-Holland,Nederlek,4.660611490672872,51.9070115738365,Exploration hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.3447337097736805,52.129784264758406,Exploration hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.344939616561553,52.129723165036765,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.344865974007218,52.129749485078506,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.344807142067993,52.12976693499875,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Westland,4.1862270017560235,52.03283203053494,Development hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1990,False,True,False,True
+ON,Drenthe,Noordenveld,6.403481010113353,53.111172442943044,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1990,True,True,False,False
+ON,Drenthe,Noordenveld,6.4030671040679294,53.111010153293826,Exploration hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,2003,True,True,False,False
+ON,Drenthe,Noordenveld,6.382606230016633,53.14164802643967,Exploration hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1995,True,True,False,False
+ON,Drenthe,Coevorden,6.765840607870513,52.74903201857957,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1996,False,True,False,True
+ON,Drenthe,Coevorden,6.765221238542871,52.74915108607232,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1997,False,True,False,True
+ON,Friesland,Ooststellingwerf,6.281214272731457,52.93171569924033,Exploration hydrocarbon,Plugged and abandoned,Gas,Elf Petroland B.V.,Elf Petroland B.V.,Y,1993,False,True,False,True
+ON,Overijssel,Dinkelland,7.026090247304482,52.39523536258073,Exploration hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1955,False,True,False,True
+ON,Zuid-Holland,Ridderkerk,4.582012544770841,51.88715560272377,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1956,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.570330978973527,51.885699672513844,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,True,True,False,False
+ON,Zuid-Holland,Ridderkerk,4.58194237457947,51.88458436116879,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569839006538103,51.88319738863928,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569839006538103,51.88319738863928,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1967,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569839006538103,51.88319738863928,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1980,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.564071673277214,51.88722000359382,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565489750303341,51.88354457320649,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565489750303341,51.88354457320649,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1985,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565461851376025,51.88348145092576,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565461851376025,51.88348145092576,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1976,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565461851376025,51.88348145092576,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1985,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565503289131988,51.88359859504827,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5655313483133675,51.883652727048265,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5655313483133675,51.883652727048265,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1966,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5655313483133675,51.883652727048265,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1985,True,True,False,False
+ON,Zuid-Holland,Ridderkerk,4.581045137772481,51.8815217853708,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56985271562094,51.8832424302007,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56985271562094,51.8832424302007,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1977,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56985271562094,51.8832424302007,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1986,True,True,False,False
+ON,Zuid-Holland,Ridderkerk,4.5878975293362805,51.88570654986963,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569866584957824,51.883278481481355,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569866584957824,51.883278481481355,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1967,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569866584957824,51.883278481481355,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1984,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5704037609931,51.88569119302289,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5704037609931,51.88569119302289,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1981,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.5704037609931,51.88569119302289,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1985,True,True,False,False
+ON,Zuid-Holland,Ridderkerk,4.574193304965095,51.88169755790211,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56988013378689,51.883332503323246,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56988013378689,51.883332503323246,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1980,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56988013378689,51.883332503323246,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1980,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569824976947173,51.883170327639476,Development hydrocarbon,Suspended,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.570287247660311,51.88570835232064,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1962,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569908363222757,51.883377645042515,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1969,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569908363222757,51.883377645042515,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1985,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56981126786433,51.88312528607805,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1979,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56981126786433,51.88312528607805,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1985,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569797568781449,51.88308025451707,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1979,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565545057396325,51.883697758609365,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1979,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.565558756478757,51.88374280017071,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1979,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.564072494547807,51.88717507219051,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1979,True,True,False,False
+ON,Zuid-Holland,Ridderkerk,4.574208184021755,51.88174457953815,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1981,True,True,False,False
+ON,Zuid-Holland,Ridderkerk,4.574208184021755,51.88174457953815,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1987,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.569648579407833,51.883285949393155,Development hydrocarbon,Suspended,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1987,True,True,False,False
+ON,Zuid-Holland,Rotterdam,4.56637648310976,51.88350582143748,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1987,True,True,False,False
+ON,Drenthe,Noordenveld,6.449590691145651,53.13629598947454,Exploration hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1970,True,True,False,False
+ON,Drenthe,Noordenveld,6.449590691145651,53.13629598947454,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1988,True,True,False,False
+ON,Drenthe,Noordenveld,6.449590691145651,53.13629598947454,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1988,True,True,False,False
+ON,Drenthe,Noordenveld,6.4496692838813665,53.13661863090116,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1976,True,True,False,False
+ON,Drenthe,Hoogeveen,6.455780564247542,52.74528257067327,Exploration hydrocarbon,Plugged and abandoned,Gas shows,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1954,False,True,False,True
+ON,Drenthe,Coevorden,6.836684293220885,52.80814829484519,Observation,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1965,True,True,False,False
+ON,Drenthe,Coevorden,6.836206212933191,52.80771729586284,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1975,True,True,False,False
+ON,Drenthe,Coevorden,6.836444943394082,52.80792120497272,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1977,True,True,False,False
+ON,Drenthe,Coevorden,6.836727063271201,52.808185976514814,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1979,True,True,False,False
+ON,Drenthe,Coevorden,6.835966583721796,52.807468005263416,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1980,True,True,False,False
+ON,Noord-Brabant,Waalwijk,4.999500676890345,51.710272967240186,Exploration hydrocarbon,Plugged and abandoned,Gas shows,British Petroleum Exploratie Maatschappij Nederland B.V.,British Petroleum Exploratie Maatschappij Nederland B.V.,Y,1987,False,True,False,True
+ON,Friesland,Tytsjerksteradiel,5.977609588735246,53.17788788928393,Appraisal hydrocarbon,Suspended,Gas,Vermilion Energy Netherlands B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1997,False,True,False,True
+ON,Friesland,Tytsjerksteradiel,5.977326362050595,53.178209306858925,Appraisal hydrocarbon,Closed-In,Gas,Vermilion Energy Netherlands B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1978,False,True,False,True
+ON,Friesland,Tytsjerksteradiel,6.01517583473987,53.19511967122238,Appraisal hydrocarbon,Closed-In,Gas,Vermilion Energy Netherlands B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1971,True,True,False,False
+ON,Friesland,Tytsjerksteradiel,6.013968184103257,53.19475900665017,Development hydrocarbon,Suspended,Gas,Vermilion Energy Netherlands B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1975,True,True,False,False
+ON,Friesland,Tytsjerksteradiel,6.014371240977688,53.19487982486587,Development hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1975,True,True,False,False
+ON,Friesland,Tytsjerksteradiel,6.014774897872954,53.195000463081925,Appraisal hydrocarbon,Suspended,Gas,Vermilion Energy Netherlands B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1985,True,True,False,False
+ON,Overijssel,Tubbergen,6.775122736776944,52.43783650890798,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1972,False,True,False,True
+ON,Drenthe,Midden-Drenthe,6.562986745277187,52.74731176749215,Exploration hydrocarbon,Suspended,Gas,Vermilion Energy Netherlands B.V.,Northern Petroleum Ned. B.V.,Y,2009,False,True,False,True
+ON,Drenthe,Assen,6.593719536840077,53.03673802975536,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1997,False,True,False,True
+ON,Drenthe,Assen,6.593719536840077,53.03673802975536,Development hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,2006,False,True,False,True
+ON,Drenthe,Assen,6.5931035899837225,53.03676895437471,Development hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,2012,False,True,False,True
+ON,Drenthe,Assen,6.594344592379344,53.03676146701373,Development hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,2015,False,True,False,True
+ON,Drenthe,Assen,6.593277837156736,53.03667606313684,Exploration hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1968,False,True,False,True
+ON,Drenthe,Tynaarlo,6.559540225337338,53.07813915340439,Development hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1990,False,True,False,True
+ON,Drenthe,Assen,6.596558095338519,53.01170073824568,Appraisal hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1976,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.362530625289559,52.10335195007386,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.3624708120557445,52.10341435140429,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1957,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.3624708120557445,52.10341435140429,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1983,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.362411199080934,52.103467772453044,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.362351586106397,52.10352118350151,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.362291973131852,52.10357459454999,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1958,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.362291973131852,52.10357459454999,Development hydrocarbon,Plugged and abandoned,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1983,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.356404791224524,52.10630972782541,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.356360589641729,52.106327317907066,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1959,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.362949247576123,52.109288092196735,Exploration hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1988,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.362993649418507,52.10926151183293,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1960,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.362919646347865,52.10930581243925,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.3628752345052355,52.10933239280294,Development hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1961,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.3508144904788075,52.11950096484384,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1964,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.3508574505043045,52.11953729645377,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1964,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.3509004205300466,52.11957362806385,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1966,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.350951410933994,52.11960355955756,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1966,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.354481191347464,52.11311526230746,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1967,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.354481191347464,52.11311526230746,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1985,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.362319301506985,52.10365572740743,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1967,False,True,False,True
+ON,Zuid-Holland,Wassenaar,4.350756930098556,52.11946450307309,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1975,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.351001151195638,52.1196374311625,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1975,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.351044111221133,52.119673762772415,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1976,True,True,False,False
+ON,Zuid-Holland,Wassenaar,4.351136463502708,52.11790812793692,Development hydrocarbon,Plugged and abandoned,Oil,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1976,True,True,False,False
+ON,Drenthe,De Wolden,6.288318153712421,52.73328123070255,Development hydrocarbon,Closed-In,Gas,Nederlandse Aardolie Maatschappij B.V.,NAM,Y,1978,True,True,False,False
+ON,Drenthe,De Wolden,6.303543121808372,52.73088233123163,Appraisal hydrocarbon,Plugged and abandoned,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1978,True,True,False,False
+ON,Drenthe,De Wolden,6.287925217507357,52.7331442721652,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1984,True,True,False,False
+ON,Drenthe,De Wolden,6.2877061652798645,52.733378347486806,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1989,True,True,False,False
+ON,Drenthe,Tynaarlo,6.708226085211691,53.079601574688944,Appraisal hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1976,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.750188968481545,53.085838624346245,Appraisal hydrocarbon,Suspended,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1975,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.750661416777532,53.08527839082432,Development hydrocarbon,Suspended,Oil and gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1975,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.749730010680281,53.08499349181585,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1975,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.750202588991527,53.08443280828095,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1975,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.751116964111988,53.08473639772705,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1986,True,True,False,False
+ON,Drenthe,Aa en Hunze,6.74924933191582,53.08556263554516,Development hydrocarbon,Suspended,Gas,Nederlandse Aardolie Maatschappij B.V.,Nederlandse Aardolie Maatschappij B.V.,Y,1988,True,True,False,False
