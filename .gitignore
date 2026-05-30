@@ -1,6 +1,5 @@
 .DS_Store
 .ipynb_checkpoints/
-data/water_protection_zones.gml
 data/water_protection_zones.gfs
 data/water_zones.geojson
 data/2026-05-30-nlog-boreholes.xlsx
